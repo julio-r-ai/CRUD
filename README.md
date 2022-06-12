@@ -9,3 +9,7 @@
 #Como fazer para excluir funcionário?
 
 ####Para excluir um cadastro basta clicar no desenho da lixeira ao do cadatro na coluna excluir.
+
+#Tecnologia usada no projeto:
+
+####HTML, JavaScript e CSS
