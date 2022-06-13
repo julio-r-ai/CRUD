@@ -1,14 +1,14 @@
-#Sistema de cadastro de Pessoas
+#Sistema de cadastro de Funcionários
 
 ##Como fazer o cadastro de funcionário no sistema?
 
-####Para realizar o cadastro é simples, basta selecionar o botão azul Incluir logo irá aparecer uma janela pedindo os informe: Nome, Função e Slário, logo após clicar em SALVAR.
+####Para realizar o cadastro é simples, basta selecionar o botão azul INCLUIR logo irá aparecer uma janela pedindo os informe: Nome, Função e Salário, logo após clica em SALVAR para registrar.                             
 
 ####Feito isso, o funcionário está cadastrado.
 
-#Como fazer para excluir funcionário?
+#Para excluir um cadastro o que devo fazer?
 
-####Para excluir um cadastro basta clicar no desenho da lixeira ao do cadatro na coluna excluir.
+####Clicar no desenho da lixeira na coluna excluir.
 
 #Tecnologias usadas no projeto:
 
